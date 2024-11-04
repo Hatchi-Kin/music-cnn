@@ -1,0 +1,6 @@
+.venv/
+.env
+.vscode/
+
+beat_openl3/DATASET/
+beat_openl3/latest_model_from_mlflow/
